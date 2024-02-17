@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&hl=en" target="_blank">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at <a href="https://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a>, supervised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Prof. Chun Yu</a>. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank">Zhengzhou University</a> in 2021.
+
+I attended the HCIX Research Club and became a Research Assistant at the <a href="" target="_blank">APEX Lab of HKUST</a> led by <a href="" target="_blank">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="" target="_blank">Prof. Ping Tan</a> from June to August.
+
+My current interest is how AI-powered VR can better improve human-computer interaction, especially in <strong>Human-AI Collaboration</strong>. 
 
 A data-driven personal website
 ======
